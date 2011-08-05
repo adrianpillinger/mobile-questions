@@ -11,7 +11,7 @@ var MobileQuestions = (function() {
 						var answerId;
 						
 						// form title
-						$('#questions').append('<h1>' + data['formName'] + '</h1>');
+						$('#title').append('<h1>' + data['formName'] + '</h1>');
 						
 						// questions
 						for (i=0;i<questions.length;i++)
