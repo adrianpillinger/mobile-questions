@@ -13,13 +13,13 @@ var MobileQuestions = (function() {
 					var thisQuestion;
 					
 					// form title
-//						$('#title').append('<h1>' + data['formName'] + '</h1>');
+					$('#title').append('<h1>' + data['formName'] + '</h1>');
 					
 					// questions
 					for (i=0;i<questions.length;i++)
 					{
 						thisQuestion = questions[i];
-						createQuestion(thisQuestion);
+						MobileQuestions.createQuestion(thisQuestion);
 //                            $('#questions').append(function(index,html){
 //                                    return MobileQuestionsUtils.createQuestion(thisQuestion);
 //                                });
@@ -32,13 +32,14 @@ var MobileQuestions = (function() {
 		},
 		
 		createQuestion : function(question) {
-			var questionHtml = '<p/>' + question["question"];
-			if (question["answerType"] === "ENUM")
-			{
-				answerId = "answer_"+i;
-				questionHtml += "<input id='"+answerId+"'></div>";
-			}
-			return questionHtml;
+            $('#freeText').clone().attr('id', 'question_'+question['id']).appendTo('#questions');
+//			var questionHtml = '<p/>' + question["question"];
+//			if (question["answerType"] === "ENUM")
+//			{
+//				answerId = "answer_"+i;
+//				questionHtml += "<input id='"+answerId+"'></div>";
+//			}
+//			return questionHtml;
 		}
 		
  	}
@@ -52,6 +53,5 @@ var MobileQuestionsUtils = MobileQuestions;
 $(document).ready(function() {
     $('#templates').hide();
 	MobileQuestionsUtils.loadForm();
-    $('#freeText').clone().attr('id', 'question1').appendTo('#questions');
 });
 
