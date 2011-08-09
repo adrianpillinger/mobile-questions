@@ -20,9 +20,6 @@ var MobileQuestions = (function() {
 					{
 						thisQuestion = questions[i];
 						MobileQuestions.createQuestion(thisQuestion);
-//                            $('#questions').append(function(index,html){
-//                                    return MobileQuestionsUtils.createQuestion(thisQuestion);
-//                                });
 					}
 				},
 				error: function(data) {
@@ -33,13 +30,6 @@ var MobileQuestions = (function() {
 		
 		createQuestion : function(question) {
             $('#freeText').clone().attr('id', 'question_'+question['id']).appendTo('#questions');
-//			var questionHtml = '<p/>' + question["question"];
-//			if (question["answerType"] === "ENUM")
-//			{
-//				answerId = "answer_"+i;
-//				questionHtml += "<input id='"+answerId+"'></div>";
-//			}
-//			return questionHtml;
 		}
 		
  	}
