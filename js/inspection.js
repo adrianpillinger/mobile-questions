@@ -43,5 +43,6 @@ var MobileQuestionsUtils = MobileQuestions;
 $(document).ready(function() {
     $('#templates').hide();
 	MobileQuestionsUtils.loadForm();
+//	QuestionTemplates['freeText']
 });
 
