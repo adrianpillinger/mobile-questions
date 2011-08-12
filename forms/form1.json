@@ -20,6 +20,14 @@
                         "question" : "Gender?", 
                         "answerType" : "ENUM", 
                         "values" : ["Male", "Female"]
+                    },
+                    
+                    {
+                        "id" : 4,
+                        "question" : "What is second your name?", 
+                        "answerType" : "FREE_TEXT", 
+                        "min" : 0, 
+                        "max" : 255
                     }
                 ]
 } 
