@@ -5,7 +5,7 @@
 	<key>EmbeddedEditorHidden:adrianp</key>
 	<false/>
 	<key>ExpandedEditorWidth:adrianp:displays([(0, 0), (1280, 800)])</key>
-	<integer>839</integer>
+	<integer>872</integer>
 	<key>ExpandedItems:adrianp</key>
 	<array>
 		<string>9FCE2AE8-BB91-4A08-B9FC-FE5883C41C24</string>
@@ -15,31 +15,6 @@
 	<string>msng</string>
 	<key>OpenDocuments:adrianp</key>
 	<array>
-		<dict>
-			<key>AliasData</key>
-			<data>
-			AAAAAAG8AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADG
-			OtwUSCsAAACSNLAKaW5kZXguaHRtbAAAAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJQF
-			espnapwAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAEG1v
-			YmlsZS1xdWVzdGlvbnMAEAAIAADGOs4EAAAAEQAIAADKZ1yMAAAA
-			AQAUAJI0sACP8PMAW66xAAqauwAAhe0AAgBSTWFjaW50b3NoIEhE
-			OlVzZXJzOgBhZHJpYW5wOgBkZXZlbG9wbWVudDoAamF2YXNjcmlw
-			dDoAbW9iaWxlLXF1ZXN0aW9uczoAaW5kZXguaHRtbAAOABYACgBp
-			AG4AZABlAHgALgBoAHQAbQBsAA8AGgAMAE0AYQBjAGkAbgB0AG8A
-			cwBoACAASABEABIAQFVzZXJzL2FkcmlhbnAvZGV2ZWxvcG1lbnQv
-			amF2YXNjcmlwdC9tb2JpbGUtcXVlc3Rpb25zL2luZGV4Lmh0bWwA
-			EwABLwAAFQACAA7//wAA
-			</data>
-			<key>FileURL</key>
-			<string>file://localhost/Users/adrianp/development/javascript/mobile-questions/index.html</string>
-			<key>RelativePath</key>
-			<string>./index.html</string>
-			<key>TypeID</key>
-			<string>_CFileLocator</string>
-			<key>Version</key>
-			<integer>1</integer>
-		</dict>
 		<dict>
 			<key>AliasData</key>
 			<data>
@@ -126,37 +101,7 @@
 	<array>
 		<dict>
 			<key>Date</key>
-			<date>2011-08-15T20:29:47Z</date>
-			<key>Location</key>
-			<dict>
-				<key>AliasData</key>
-				<data>
-				AAAAAAG8AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
-				AAAAAADGOtwUSCsAAACSNLAKaW5kZXguaHRtbAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAJQFespnapwAAAAAAAAAAP//
-				//8AAAkgAAAAAAAAAAAAAAAAAAAAEG1vYmlsZS1xdWVz
-				dGlvbnMAEAAIAADGOs4EAAAAEQAIAADKZ1yMAAAAAQAU
-				AJI0sACP8PMAW66xAAqauwAAhe0AAgBSTWFjaW50b3No
-				IEhEOlVzZXJzOgBhZHJpYW5wOgBkZXZlbG9wbWVudDoA
-				amF2YXNjcmlwdDoAbW9iaWxlLXF1ZXN0aW9uczoAaW5k
-				ZXguaHRtbAAOABYACgBpAG4AZABlAHgALgBoAHQAbQBs
-				AA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIA
-				QFVzZXJzL2FkcmlhbnAvZGV2ZWxvcG1lbnQvamF2YXNj
-				cmlwdC9tb2JpbGUtcXVlc3Rpb25zL2luZGV4Lmh0bWwA
-				EwABLwAAFQACAA7//wAA
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/adrianp/development/javascript/mobile-questions/index.html</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-		</dict>
-		<dict>
-			<key>Date</key>
-			<date>2011-08-15T20:29:46Z</date>
+			<date>2011-08-15T21:57:42Z</date>
 			<key>Location</key>
 			<dict>
 				<key>AliasData</key>
@@ -186,7 +131,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2011-08-15T20:29:46Z</date>
+			<date>2011-08-15T21:57:42Z</date>
 			<key>Location</key>
 			<dict>
 				<key>AliasData</key>
@@ -216,7 +161,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2011-08-15T20:29:46Z</date>
+			<date>2011-08-15T21:57:42Z</date>
 			<key>Location</key>
 			<dict>
 				<key>AliasData</key>
@@ -246,7 +191,37 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2011-08-15T20:29:46Z</date>
+			<date>2011-08-15T21:57:42Z</date>
+			<key>Location</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAG8AAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADGOtwUSCsAAACSNLAKaW5kZXguaHRtbAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAJQFespnapwAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAAEG1vYmlsZS1xdWVz
+				dGlvbnMAEAAIAADGOs4EAAAAEQAIAADKZ1yMAAAAAQAU
+				AJI0sACP8PMAW66xAAqauwAAhe0AAgBSTWFjaW50b3No
+				IEhEOlVzZXJzOgBhZHJpYW5wOgBkZXZlbG9wbWVudDoA
+				amF2YXNjcmlwdDoAbW9iaWxlLXF1ZXN0aW9uczoAaW5k
+				ZXguaHRtbAAOABYACgBpAG4AZABlAHgALgBoAHQAbQBs
+				AA8AGgAMAE0AYQBjAGkAbgB0AG8AcwBoACAASABEABIA
+				QFVzZXJzL2FkcmlhbnAvZGV2ZWxvcG1lbnQvamF2YXNj
+				cmlwdC9tb2JpbGUtcXVlc3Rpb25zL2luZGV4Lmh0bWwA
+				EwABLwAAFQACAA7//wAA
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/adrianp/development/javascript/mobile-questions/index.html</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
+			<date>2011-08-15T21:57:42Z</date>
 			<key>Location</key>
 			<dict>
 				<key>AliasData</key>
@@ -278,7 +253,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2011-08-15T20:29:46Z</date>
+			<date>2011-08-15T21:57:42Z</date>
 			<key>Location</key>
 			<dict>
 				<key>AliasData</key>
@@ -309,7 +284,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2011-08-15T20:29:46Z</date>
+			<date>2011-08-15T21:57:42Z</date>
 			<key>Location</key>
 			<dict>
 				<key>AliasData</key>
@@ -355,7 +330,7 @@
 	<key>ToolbarVisible:adrianp</key>
 	<true/>
 	<key>ViewSplitterPosition:adrianp</key>
-	<real>0.26788830757141113</real>
+	<real>0.23909249901771545</real>
 	<key>WindowFrame:adrianp:displays([(0, 0), (1280, 800)])</key>
 	<string>rect(44,0,737,1146)</string>
 </dict>
