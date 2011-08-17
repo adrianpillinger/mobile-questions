@@ -44,5 +44,6 @@ $(document).ready(function() {
     $('#templates').hide();
 	MobileQuestionsUtils.loadForm();
     $('.datepicker').datepicker();
+//	QuestionTemplates['freeText']
 });
 
