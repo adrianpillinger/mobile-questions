@@ -38,11 +38,9 @@ var MobileQuestions = (function() {
 
 })();
 
-var MobileQuestionsUtils = MobileQuestions;
-
 $(document).ready(function() {
-    $('#templates').hide();
-	MobileQuestionsUtils.loadForm();
+    //$('#templates').hide();
+	MobileQuestions.loadForm();
     $('.datepicker').datepicker();
 //	QuestionTemplates['freeText']
 });

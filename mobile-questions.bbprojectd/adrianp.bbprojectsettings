@@ -5,7 +5,7 @@
 	<key>EmbeddedEditorHidden:adrianp</key>
 	<false/>
 	<key>ExpandedEditorWidth:adrianp:displays([(0, 0), (1280, 800)])</key>
-	<integer>872</integer>
+	<integer>851</integer>
 	<key>ExpandedItems:adrianp</key>
 	<array>
 		<string>9FCE2AE8-BB91-4A08-B9FC-FE5883C41C24</string>
@@ -18,59 +18,11 @@
 		<dict>
 			<key>AliasData</key>
 			<data>
-			AAAAAAGWAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADG
-			OtwUSCsAAACVz/4KaW5kZXguaHRtbAAAAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJXR
-			/cpvVUMAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAEG1v
-			YmlsZS1xdWVzdGlvbnMAEAAIAADGOs4EAAAAEQAIAADKb0czAAAA
-			AQAQAJXP/gAKmskACpq7AACF7QACAEBNYWNpbnRvc2ggSEQ6VXNl
-			cnM6AGFkcmlhbnA6AFNpdGVzOgBtb2JpbGUtcXVlc3Rpb25zOgBp
-			bmRleC5odG1sAA4AFgAKAGkAbgBkAGUAeAAuAGgAdABtAGwADwAa
-			AAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgAvVXNlcnMvYWRy
-			aWFucC9TaXRlcy9tb2JpbGUtcXVlc3Rpb25zL2luZGV4Lmh0bWwA
-			ABMAAS8AABUAAgAO//8AAA==
-			</data>
-			<key>FileURL</key>
-			<string>file://localhost/Users/adrianp/Sites/mobile-questions/index.html</string>
-			<key>RelativePath</key>
-			<string>./index.html</string>
-			<key>TypeID</key>
-			<string>_CFileLocator</string>
-			<key>Version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>AliasData</key>
-			<data>
-			AAAAAAGaAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADG
-			OtwUSCsAAACV0f4MdGVtcGxhdGVzLmpzAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJXS
-			AspvVUMAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAAmpz
-			ABAACAAAxjrOBAAAABEACAAAym9HMwAAAAEAFACV0f4Alc/+AAqa
-			yQAKmrsAAIXtAAIARk1hY2ludG9zaCBIRDpVc2VyczoAYWRyaWFu
-			cDoAU2l0ZXM6AG1vYmlsZS1xdWVzdGlvbnM6AGpzOgB0ZW1wbGF0
-			ZXMuanMADgAaAAwAdABlAG0AcABsAGEAdABlAHMALgBqAHMADwAa
-			AAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgA0VXNlcnMvYWRy
-			aWFucC9TaXRlcy9tb2JpbGUtcXVlc3Rpb25zL2pzL3RlbXBsYXRl
-			cy5qcwATAAEvAAAVAAIADv//AAA=
-			</data>
-			<key>FileURL</key>
-			<string>file://localhost/Users/adrianp/Sites/mobile-questions/js/templates.js</string>
-			<key>RelativePath</key>
-			<string>./js/templates.js</string>
-			<key>TypeID</key>
-			<string>_CFileLocator</string>
-			<key>Version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>AliasData</key>
-			<data>
 			AAAAAAGgAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADG
 			OtwUSCsAAACV0f4NaW5zcGVjdGlvbi5qcwAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJXR
-			/8pvVUMAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAAmpz
-			ABAACAAAxjrOBAAAABEACAAAym9HMwAAAAEAFACV0f4Alc/+AAqa
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJbS
+			xMpx4+BURVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAAmpz
+			ABAACAAAxjrOBAAAABEACAAAynHV0AAAAAEAFACV0f4Alc/+AAqa
 			yQAKmrsAAIXtAAIAR01hY2ludG9zaCBIRDpVc2VyczoAYWRyaWFu
 			cDoAU2l0ZXM6AG1vYmlsZS1xdWVzdGlvbnM6AGpzOgBpbnNwZWN0
 			aW9uLmpzAAAOABwADQBpAG4AcwBwAGUAYwB0AGkAbwBuAC4AagBz
@@ -90,73 +42,22 @@
 		<dict>
 			<key>AliasData</key>
 			<data>
-			AAAAAAHEAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADG
-			OtwUSCsAAACSPK4KZm9ybTEuanNvbgAAAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJQF
-			XcpnapwAAAAAAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAABWZv
-			cm1zAAAQAAgAAMY6zgQAAAARAAgAAMpnXIwAAAABABgAkjyuAJI0
-			sACP8PMAW66xAAqauwAAhe0AAgBZTWFjaW50b3NoIEhEOlVzZXJz
-			OgBhZHJpYW5wOgBkZXZlbG9wbWVudDoAamF2YXNjcmlwdDoAbW9i
-			aWxlLXF1ZXN0aW9uczoAZm9ybXM6AGZvcm0xLmpzb24AAA4AFgAK
-			AGYAbwByAG0AMQAuAGoAcwBvAG4ADwAaAAwATQBhAGMAaQBuAHQA
-			bwBzAGgAIABIAEQAEgBGVXNlcnMvYWRyaWFucC9kZXZlbG9wbWVu
-			dC9qYXZhc2NyaXB0L21vYmlsZS1xdWVzdGlvbnMvZm9ybXMvZm9y
-			bTEuanNvbgATAAEvAAAVAAIADv//AAA=
+			AAAAAAGWAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADG
+			OtwUSCsAAACVz/4KaW5kZXguaHRtbAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJbS
+			w8px4+BURVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAEG1v
+			YmlsZS1xdWVzdGlvbnMAEAAIAADGOs4EAAAAEQAIAADKcdXQAAAA
+			AQAQAJXP/gAKmskACpq7AACF7QACAEBNYWNpbnRvc2ggSEQ6VXNl
+			cnM6AGFkcmlhbnA6AFNpdGVzOgBtb2JpbGUtcXVlc3Rpb25zOgBp
+			bmRleC5odG1sAA4AFgAKAGkAbgBkAGUAeAAuAGgAdABtAGwADwAa
+			AAwATQBhAGMAaQBuAHQAbwBzAGgAIABIAEQAEgAvVXNlcnMvYWRy
+			aWFucC9TaXRlcy9tb2JpbGUtcXVlc3Rpb25zL2luZGV4Lmh0bWwA
+			ABMAAS8AABUAAgAO//8AAA==
 			</data>
 			<key>FileURL</key>
-			<string>file://localhost/Users/adrianp/development/javascript/mobile-questions/forms/form1.json</string>
+			<string>file://localhost/Users/adrianp/Sites/mobile-questions/index.html</string>
 			<key>RelativePath</key>
-			<string>../../development/javascript/mobile-questions/forms/form1.json</string>
-			<key>TypeID</key>
-			<string>_CFileLocator</string>
-			<key>Version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>AliasData</key>
-			<data>
-			AAAAAAHGAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADG
-			OtwUSCsAAACSNn0NaW5zcGVjdGlvbi5qcwAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJQF
-			X8pnapxURVhUAAAAAP////8AAAkgAAAAAAAAAAAAAAAAAAAAAmpz
-			ABAACAAAxjrOBAAAABEACAAAymdcjAAAAAEAGACSNn0AkjSwAI/w
-			8wBbrrEACpq7AACF7QACAFlNYWNpbnRvc2ggSEQ6VXNlcnM6AGFk
-			cmlhbnA6AGRldmVsb3BtZW50OgBqYXZhc2NyaXB0OgBtb2JpbGUt
-			cXVlc3Rpb25zOgBqczoAaW5zcGVjdGlvbi5qcwAADgAcAA0AaQBu
-			AHMAcABlAGMAdABpAG8AbgAuAGoAcwAPABoADABNAGEAYwBpAG4A
-			dABvAHMAaAAgAEgARAASAEZVc2Vycy9hZHJpYW5wL2RldmVsb3Bt
-			ZW50L2phdmFzY3JpcHQvbW9iaWxlLXF1ZXN0aW9ucy9qcy9pbnNw
-			ZWN0aW9uLmpzABMAAS8AABUAAgAO//8AAA==
-			</data>
-			<key>FileURL</key>
-			<string>file://localhost/Users/adrianp/development/javascript/mobile-questions/js/inspection.js</string>
-			<key>RelativePath</key>
-			<string>../../development/javascript/mobile-questions/js/inspection.js</string>
-			<key>TypeID</key>
-			<string>_CFileLocator</string>
-			<key>Version</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>AliasData</key>
-			<data>
-			AAAAAAHCAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAAAAAAAADG
-			OtwUSCsAAACSNn0MdGVtcGxhdGVzLmpzAAAAAAAAAAAAAAAAAAAA
-			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJQG
-			7cpnbIxURVhUUipjaP////8AAAkgAAAAAAAAAAAAAAAAAAAAAmpz
-			ABAACAAAxjrOBAAAABEACAAAymdefAAAAAEAGACSNn0AkjSwAI/w
-			8wBbrrEACpq7AACF7QACAFhNYWNpbnRvc2ggSEQ6VXNlcnM6AGFk
-			cmlhbnA6AGRldmVsb3BtZW50OgBqYXZhc2NyaXB0OgBtb2JpbGUt
-			cXVlc3Rpb25zOgBqczoAdGVtcGxhdGVzLmpzAA4AGgAMAHQAZQBt
-			AHAAbABhAHQAZQBzAC4AagBzAA8AGgAMAE0AYQBjAGkAbgB0AG8A
-			cwBoACAASABEABIARVVzZXJzL2FkcmlhbnAvZGV2ZWxvcG1lbnQv
-			amF2YXNjcmlwdC9tb2JpbGUtcXVlc3Rpb25zL2pzL3RlbXBsYXRl
-			cy5qcwAAEwABLwAAFQACAA7//wAA
-			</data>
-			<key>FileURL</key>
-			<string>file://localhost/Users/adrianp/development/javascript/mobile-questions/js/templates.js</string>
-			<key>RelativePath</key>
-			<string>../../development/javascript/mobile-questions/js/templates.js</string>
+			<string>./index.html</string>
 			<key>TypeID</key>
 			<string>_CFileLocator</string>
 			<key>Version</key>
@@ -173,6 +74,35 @@
 	<array>
 		<dict>
 			<key>Date</key>
+			<date>2011-08-17T20:38:15Z</date>
+			<key>Location</key>
+			<dict>
+				<key>AliasData</key>
+				<data>
+				AAAAAAGeAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
+				AAAAAADGOtwUSCsAAACV0fsKZm9ybTEuanNvbgAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAAAJbSwspx4+AAAAAAAAAAAP//
+				//8AAAkgAAAAAAAAAAAAAAAAAAAABWZvcm1zAAAQAAgA
+				AMY6zgQAAAARAAgAAMpx1dAAAAABABQAldH7AJXP/gAK
+				mskACpq7AACF7QACAEdNYWNpbnRvc2ggSEQ6VXNlcnM6
+				AGFkcmlhbnA6AFNpdGVzOgBtb2JpbGUtcXVlc3Rpb25z
+				OgBmb3JtczoAZm9ybTEuanNvbgAADgAWAAoAZgBvAHIA
+				bQAxAC4AagBzAG8AbgAPABoADABNAGEAYwBpAG4AdABv
+				AHMAaAAgAEgARAASADVVc2Vycy9hZHJpYW5wL1NpdGVz
+				L21vYmlsZS1xdWVzdGlvbnMvZm9ybXMvZm9ybTEuanNv
+				bgAAEwABLwAAFQACAA7//wAA
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/adrianp/Sites/mobile-questions/forms/form1.json</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
 			<date>2011-08-17T20:28:07Z</date>
 			<key>Location</key>
 			<dict>
@@ -181,9 +111,9 @@
 				AAAAAAGWAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
 				AAAAAADGOtwUSCsAAACVz/4KaW5kZXguaHRtbAAAAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAJXR/cpvVUMAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAAJbSw8px4+BURVhUAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAEG1vYmlsZS1xdWVz
-				dGlvbnMAEAAIAADGOs4EAAAAEQAIAADKb0czAAAAAQAQ
+				dGlvbnMAEAAIAADGOs4EAAAAEQAIAADKcdXQAAAAAQAQ
 				AJXP/gAKmskACpq7AACF7QACAEBNYWNpbnRvc2ggSEQ6
 				VXNlcnM6AGFkcmlhbnA6AFNpdGVzOgBtb2JpbGUtcXVl
 				c3Rpb25zOgBpbmRleC5odG1sAA4AFgAKAGkAbgBkAGUA
@@ -210,7 +140,7 @@
 				AAAAAAGaAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
 				AAAAAADGOtwUSCsAAACV0f4MdGVtcGxhdGVzLmpzAAAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAJXSAspvVUMAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAAJXSAspvVUNURVhUAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAAmpzABAACAAAxjrO
 				BAAAABEACAAAym9HMwAAAAEAFACV0f4Alc/+AAqayQAK
 				mrsAAIXtAAIARk1hY2ludG9zaCBIRDpVc2VyczoAYWRy
@@ -300,9 +230,9 @@
 				AAAAAAGgAAIAAAxNYWNpbnRvc2ggSEQAAAAAAAAAAAAA
 				AAAAAADGOtwUSCsAAACV0f4NaW5zcGVjdGlvbi5qcwAA
 				AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAAAJXR/8pvVUMAAAAAAAAAAP//
+				AAAAAAAAAAAAAAAAAAAAAJbSxMpx4+BURVhUAAAAAP//
 				//8AAAkgAAAAAAAAAAAAAAAAAAAAAmpzABAACAAAxjrO
-				BAAAABEACAAAym9HMwAAAAEAFACV0f4Alc/+AAqayQAK
+				BAAAABEACAAAynHV0AAAAAEAFACV0f4Alc/+AAqayQAK
 				mrsAAIXtAAIAR01hY2ludG9zaCBIRDpVc2VyczoAYWRy
 				aWFucDoAU2l0ZXM6AG1vYmlsZS1xdWVzdGlvbnM6AGpz
 				OgBpbnNwZWN0aW9uLmpzAAAOABwADQBpAG4AcwBwAGUA
@@ -550,8 +480,8 @@
 	<key>ToolbarVisible:adrianp</key>
 	<true/>
 	<key>ViewSplitterPosition:adrianp</key>
-	<real>0.23909249901771545</real>
+	<real>0.24355556070804596</real>
 	<key>WindowFrame:adrianp:displays([(0, 0), (1280, 800)])</key>
-	<string>rect(44,0,737,1146)</string>
+	<string>rect(22,0,738,1125)</string>
 </dict>
 </plist>
